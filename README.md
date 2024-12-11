@@ -1,1 +1,1 @@
-# Redu-o_de_dimensionalidade
+# Reducao_de_dimensionalidade
